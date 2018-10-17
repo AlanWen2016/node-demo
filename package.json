@@ -1,0 +1,28 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "simple demo of exporess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanWen2016/node-demo.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "AlanWen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanWen2016/node-demo/issues"
+  },
+  "homepage": "https://github.com/AlanWen2016/node-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
